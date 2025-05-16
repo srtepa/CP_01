@@ -11,4 +11,5 @@
 6. Способ организации данных – структуры.
 7. Способ хранения данных – текстовые файлы. 
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/20a9f53c-f4bf-4d8e-a3d5-814a696e75ec" />Рисунок 1 – Диаграмма вариантов использования
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/20a9f53c-f4bf-4d8e-a3d5-814a696e75ec" />
+Рисунок 1 – Диаграмма вариантов использования
